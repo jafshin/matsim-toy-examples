@@ -1,240 +1,84 @@
 <?xml version='1.0' encoding='utf-8'?>
 <counts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" desc="counts values for equil net" layer="0" name="equilCounts" year="2008" xsi:noNamespaceSchemaLocation="http://matsim.org/files/dtd/counts_v1.xsd">
-	<count loc_id="2">
+
+	<count loc_id="5">
 		<volume h="1" val="0" />
-		<volume h="2" val="3" />
-		<volume h="3" val="5" />
-		<volume h="4" val="5" />
-		<volume h="5" val="2" />
-		<volume h="6" val="2" />
-		<volume h="7" val="48" />
-		<volume h="8" val="1" />
-		<volume h="9" val="5" />
-		<volume h="10" val="4" />
-		<volume h="11" val="5" />
-		<volume h="12" val="3" />
-		<volume h="13" val="4" />
-		<volume h="14" val="3" />
-		<volume h="15" val="1" />
-		<volume h="16" val="5" />
-		<volume h="17" val="2" />
-		<volume h="18" val="2" />
-		<volume h="19" val="1" />
-		<volume h="20" val="5" />
-		<volume h="21" val="5" />
-		<volume h="22" val="0" />
-		<volume h="23" val="3" />
-		<volume h="24" val="4" />
-	</count>
-	<count loc_id="3">
-		<volume h="1" val="5" />
-		<volume h="2" val="3" />
+		<volume h="2" val="0" />
 		<volume h="3" val="0" />
 		<volume h="4" val="0" />
-		<volume h="5" val="3" />
-		<volume h="6" val="4" />
-		<volume h="7" val="54" />
-		<volume h="8" val="4" />
-		<volume h="9" val="3" />
-		<volume h="10" val="0" />
-		<volume h="11" val="3" />
-		<volume h="12" val="1" />
-		<volume h="13" val="1" />
-		<volume h="14" val="1" />
-		<volume h="15" val="3" />
-		<volume h="16" val="2" />
-		<volume h="17" val="1" />
-		<volume h="18" val="3" />
-		<volume h="19" val="3" />
-		<volume h="20" val="1" />
-		<volume h="21" val="0" />
-		<volume h="22" val="3" />
-		<volume h="23" val="1" />
-		<volume h="24" val="5" />
-	</count>
-	<count loc_id="4">
-		<volume h="1" val="5" />
-		<volume h="2" val="3" />
-		<volume h="3" val="4" />
-		<volume h="4" val="3" />
 		<volume h="5" val="0" />
-		<volume h="6" val="4" />
-		<volume h="7" val="100" />
-		<volume h="8" val="4" />
-		<volume h="9" val="5" />
-		<volume h="10" val="3" />
-		<volume h="11" val="4" />
-		<volume h="12" val="4" />
-		<volume h="13" val="1" />
-		<volume h="14" val="2" />
-		<volume h="15" val="1" />
+		<volume h="6" val="0" />
+		<volume h="7" val="0" />
+		<volume h="8" val="0" />
+		<volume h="9" val="0" />
+		<volume h="10" val="0" />
+		<volume h="11" val="0" />
+		<volume h="12" val="0" />
+		<volume h="13" val="0" />
+		<volume h="14" val="0" />
+		<volume h="15" val="0" />
 		<volume h="16" val="0" />
-		<volume h="17" val="3" />
-		<volume h="18" val="4" />
-		<volume h="19" val="2" />
-		<volume h="20" val="2" />
-		<volume h="21" val="2" />
-		<volume h="22" val="4" />
-		<volume h="23" val="1" />
-		<volume h="24" val="3" />
-	</count>
-	<count loc_id="5">
-		<volume h="1" val="1" />
-		<volume h="2" val="2" />
-		<volume h="3" val="4" />
-		<volume h="4" val="1" />
-		<volume h="5" val="3" />
-		<volume h="6" val="3" />
-		<volume h="7" val="35" />
-		<volume h="8" val="1" />
-		<volume h="9" val="4" />
-		<volume h="10" val="3" />
-		<volume h="11" val="3" />
-		<volume h="12" val="1" />
-		<volume h="13" val="5" />
-		<volume h="14" val="1" />
-		<volume h="15" val="4" />
-		<volume h="16" val="3" />
 		<volume h="17" val="0" />
 		<volume h="18" val="0" />
-		<volume h="19" val="5" />
-		<volume h="20" val="2" />
-		<volume h="21" val="3" />
-		<volume h="22" val="5" />
-		<volume h="23" val="4" />
+		<volume h="19" val="0" />
+		<volume h="20" val="0" />
+		<volume h="21" val="0" />
+		<volume h="22" val="0" />
+		<volume h="23" val="0" />
 		<volume h="24" val="0" />
 	</count>
 	<count loc_id="6">
-		<volume h="1" val="1" />
-		<volume h="2" val="4" />
-		<volume h="3" val="4" />
-		<volume h="4" val="0" />
-		<volume h="5" val="3" />
-		<volume h="6" val="1" />
-		<volume h="7" val="87" />
-		<volume h="8" val="0" />
-		<volume h="9" val="1" />
-		<volume h="10" val="0" />
-		<volume h="11" val="1" />
-		<volume h="12" val="0" />
-		<volume h="13" val="2" />
-		<volume h="14" val="2" />
-		<volume h="15" val="1" />
-		<volume h="16" val="2" />
-		<volume h="17" val="0" />
-		<volume h="18" val="0" />
-		<volume h="19" val="5" />
-		<volume h="20" val="2" />
-		<volume h="21" val="3" />
-		<volume h="22" val="2" />
-		<volume h="23" val="4" />
-		<volume h="24" val="2" />
-	</count>
-	<count loc_id="7">
-		<volume h="1" val="1" />
-		<volume h="2" val="5" />
-		<volume h="3" val="5" />
-		<volume h="4" val="5" />
-		<volume h="5" val="2" />
-		<volume h="6" val="2" />
-		<volume h="7" val="1" />
-		<volume h="8" val="2" />
-		<volume h="9" val="1" />
-		<volume h="10" val="5" />
-		<volume h="11" val="5" />
-		<volume h="12" val="0" />
-		<volume h="13" val="3" />
-		<volume h="14" val="4" />
-		<volume h="15" val="3" />
-		<volume h="16" val="2" />
-		<volume h="17" val="0" />
-		<volume h="18" val="5" />
-		<volume h="19" val="2" />
-		<volume h="20" val="3" />
-		<volume h="21" val="4" />
-		<volume h="22" val="3" />
-		<volume h="23" val="2" />
-		<volume h="24" val="4" />
-	</count>
-	<count loc_id="8">
-		<volume h="1" val="1" />
-		<volume h="2" val="1" />
+		<volume h="1" val="0" />
+		<volume h="2" val="0" />
 		<volume h="3" val="0" />
-		<volume h="4" val="3" />
-		<volume h="5" val="1" />
+		<volume h="4" val="0" />
+		<volume h="5" val="0" />
 		<volume h="6" val="0" />
-		<volume h="7" val="15" />
-		<volume h="8" val="4" />
-		<volume h="9" val="5" />
+		<volume h="7" val="0" />
+		<volume h="8" val="0" />
+		<volume h="9" val="0" />
 		<volume h="10" val="0" />
-		<volume h="11" val="5" />
+		<volume h="11" val="0" />
 		<volume h="12" val="0" />
-		<volume h="13" val="1" />
-		<volume h="14" val="2" />
+		<volume h="13" val="0" />
+		<volume h="14" val="0" />
 		<volume h="15" val="0" />
 		<volume h="16" val="0" />
 		<volume h="17" val="0" />
-		<volume h="18" val="1" />
-		<volume h="19" val="2" />
-		<volume h="20" val="3" />
-		<volume h="21" val="3" />
+		<volume h="18" val="0" />
+		<volume h="19" val="0" />
+		<volume h="20" val="0" />
+		<volume h="21" val="0" />
 		<volume h="22" val="0" />
-		<volume h="23" val="4" />
-		<volume h="24" val="5" />
+		<volume h="23" val="0" />
+		<volume h="24" val="0" />
 	</count>
-	<count loc_id="9">
-		<volume h="1" val="4" />
-		<volume h="2" val="2" />
-		<volume h="3" val="1" />
-		<volume h="4" val="3" />
-		<volume h="5" val="1" />
-		<volume h="6" val="2" />
-		<volume h="7" val="62" />
-		<volume h="8" val="5" />
-		<volume h="9" val="1" />
-		<volume h="10" val="3" />
+	<count loc_id="7">
+		<volume h="1" val="0" />
+		<volume h="2" val="0" />
+		<volume h="3" val="0" />
+		<volume h="4" val="0" />
+		<volume h="5" val="0" />
+		<volume h="6" val="0" />
+		<volume h="7" val="94" />
+		<volume h="8" val="0" />
+		<volume h="9" val="0" />
+		<volume h="10" val="0" />
 		<volume h="11" val="0" />
 		<volume h="12" val="0" />
-		<volume h="13" val="2" />
-		<volume h="14" val="5" />
-		<volume h="15" val="1" />
-		<volume h="16" val="5" />
-		<volume h="17" val="4" />
-		<volume h="18" val="4" />
-		<volume h="19" val="3" />
-		<volume h="20" val="3" />
-		<volume h="21" val="2" />
-		<volume h="22" val="4" />
-		<volume h="23" val="3" />
-		<volume h="24" val="3" />
-	</count>
-	<count loc_id="10">
-		<volume h="1" val="1" />
-		<volume h="2" val="0" />
-		<volume h="3" val="1" />
-		<volume h="4" val="0" />
-		<volume h="5" val="4" />
-		<volume h="6" val="1" />
-		<volume h="7" val="66" />
-		<volume h="8" val="4" />
-		<volume h="9" val="5" />
-		<volume h="10" val="3" />
-		<volume h="11" val="2" />
-		<volume h="12" val="5" />
-		<volume h="13" val="3" />
-		<volume h="14" val="3" />
+		<volume h="13" val="0" />
+		<volume h="14" val="0" />
 		<volume h="15" val="0" />
-		<volume h="16" val="4" />
-		<volume h="17" val="1" />
-		<volume h="18" val="2" />
+		<volume h="16" val="0" />
+		<volume h="17" val="0" />
+		<volume h="18" val="0" />
 		<volume h="19" val="0" />
-		<volume h="20" val="3" />
-		<volume h="21" val="3" />
-		<volume h="22" val="4" />
-		<volume h="23" val="3" />
-		<volume h="24" val="2" />
+		<volume h="20" val="0" />
+		<volume h="21" val="0" />
+		<volume h="22" val="0" />
+		<volume h="23" val="0" />
+		<volume h="24" val="0" />
 	</count>
-
 
 
 
